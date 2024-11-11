@@ -1,6 +1,6 @@
 ### 🚀 About Sov.ai
 
-Sov.ai integrates advanced machine learning with financial data analysis to revolutionize investment strategies. We partner with **three of the top 10** quantitative hedge funds.
+Sov.ai integrates advanced machine learning with financial data analysis to revolutionize investment strategies. We work with **3 of the top 10** quantitative hedge funds.
 
 Our platform uses diverse data sources and innovative algorithms to deliver actionable insights for smarter investment decisions.
 
