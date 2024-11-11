@@ -1,7 +1,3 @@
-Certainly! Here's a more succinct version of your GitHub organization page content:
-
----
-
 ### 🚀 About Sov.ai
 
 Sov.ai integrates advanced machine learning with financial data analysis to revolutionize investment strategies. We partner with **three of the top 10** quantitative hedge funds.
