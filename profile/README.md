@@ -1,8 +1,5 @@
 ### 🚀 About Sov.ai
 
-Certainly! Here's a polished and refined version of your About Sov.ai section:
-🚀 About Sov.ai
-
 Sov.ai merges advanced machine learning with financial data analysis to revolutionize investment strategies.
 
 Our platform harnesses diverse data sources and innovative algorithms to deliver actionable insights, enabling smarter investment decisions. 
