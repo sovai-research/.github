@@ -1,6 +1,6 @@
 ### 🚀 About Sov.ai
 
-##### [Sov.ai](https://sov.ai) merges advanced machine learning with financial data analysis to revolutionize investment strategies. 
+> [Sov.ai](https://sov.ai) merges advanced machine learning with financial data analysis to revolutionize investment strategies.
 
 ### 🛠️ Products
 
