@@ -1,10 +1,6 @@
 ### 🚀 About Sov.ai
 
-Sov.ai merges advanced machine learning with financial data analysis to revolutionize investment strategies. Our platform harnesses diverse data sources and innovative algorithms to deliver actionable investment insights. 
-
-Join our dynamic research team dedicated to pushing the boundaries of finance through technology. We collaborate with three of the top ten quantitative hedge funds. Note: Our research is both challenging and experimental.
-
----
+[Sov.ai](https://sov.ai) merges advanced machine learning with financial data analysis to revolutionize investment strategies. 
 
 ### 🛠️ Products
 
